@@ -1,0 +1,120 @@
+Yes I could breake this ciphper eassy
+time needed to breke 28 bits key is: 0.997314453125 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 29 bits key is: 0.997314453125 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 30 bits key is: 1.99462890625 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 31 bits key is: 1.99462890625 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 32 bits key is: 3.989990234375 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 33 bits key is: 6.981201171875 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 34 bits key is: 8.97607421875 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 35 bits key is: 5.984130859375 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 36 bits key is: 12.96533203125 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 37 bits key is: 18.947998046875 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 38 bits key is: 49.863525390625 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 39 bits key is: 51.861572265625 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 40 bits key is: 72.804443359375 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 41 bits key is: 70.81005859375 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 42 bits key is: 126.66064453125 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 43 bits key is: 132.644287109375 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 44 bits key is: 281.249267578125 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 45 bits key is: 295.25048828125 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 46 bits key is: 470.739501953125 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 47 bits key is: 476.756591796875 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 48 bits key is: 711.0986328125 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 49 bits key is: 644.276611328125 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 50 bits key is: 1,403.2578125 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 51 bits key is: 1,457.13623046875 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 52 bits key is: 3,096.718994140625 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 53 bits key is: 2,603.02001953125 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 54 bits key is: 5,239.021728515625 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 55 bits key is: 8,365.65087890625 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 56 bits key is: 10,813.07470703125 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 57 bits key is: 16,764.194091796875 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 58 bits key is: 25,263.427978515625 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 59 bits key is: 22,002.324951171875 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 60 bits key is: 64,399.062255859375 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 61 bits key is: 38,095.14013671875 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 62 bits key is: 107,674.06323242188 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 63 bits key is: 171,712.033203125 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 64 bits key is: 192,157.89770507812 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 65 bits key is: 324,940.5920410156 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 66 bits key is: 386,296.82080078125 millis
+-------------------------------------------------------------------------
+Yes I could breake this ciphper eassy
+time needed to breke 67 bits key is: 565,779.8881835938 millis
+-------------------------------------------------------------------------
